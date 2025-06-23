@@ -19,7 +19,7 @@
 ### Networking 
 [Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/39VX5KMDUBD9)
 
-### Programming
+### Programming/Scripting
 [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/CUPQ3TRY5ZR1)
 
 
