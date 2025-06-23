@@ -1,4 +1,4 @@
-# Eaarned Certs
+# Earned Certs
 ---
 ## IT Professional
 
