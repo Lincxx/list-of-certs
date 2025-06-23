@@ -12,6 +12,13 @@
 
 [Detection and Response](https://www.coursera.org/account/accomplishments/verify/85DINKTKEP2O) 
 
+[Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/1ORCLXTYET7M)
+
+### Admin
+
+### Networking 
+[Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/39VX5KMDUBD9)
+
 ### Programming
 [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/CUPQ3TRY5ZR1)
 
